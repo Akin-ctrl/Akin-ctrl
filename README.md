@@ -38,6 +38,6 @@ I am an EEE graduate building data infrastructure for **Industry 4.0** | OT/IT i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Akingbade-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanuelakingbade/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akin--ctrl.github.io-1a1a2e?style=flat&logo=github)](https://akin-ctrl.github.io)
-[![Email](https://img.shields.io/badge/Email-22c55e?style=flat)](https://www.linkedin.com/in/emmanuelakingbade/)
+[![Email](https://img.shields.io/badge/Email-22c55e?style=flat&logo=gmail)](akin4gbade@gmail.com)
 
 ---
