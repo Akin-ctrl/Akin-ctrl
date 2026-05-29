@@ -11,10 +11,10 @@ I am an EEE graduate building data infrastructure for **Industry 4.0** | OT/IT i
 ## What I'm Building
 
 | Project | What it does |
-|---|---|---|
-| [**StreamForge**](https://github.com/Akin-ctrl/StreamForge) | Protocol-agnostic industrial data gateway — OT to IT, edge to cloud, zero data loss |
-| [**CVops**](https://github.com/Akin-ctrl/CVops) | Real-time computer vision pipeline for edge hardware → refactoring for industrial safety & offshore | 
-| **DigitalThread** *(coming soon)* | Industrial digital twin framework — live process synchronisation and simulation |
+|---|---|
+| [**StreamForge**](https://github.com/Akin-ctrl/StreamForge) | Protocol-agnostic industrial data gateway (OT to IT, edge to cloud, zero data loss) |
+| [**CVops**](https://github.com/Akin-ctrl/CVops) | Real-time computer vision pipeline for edge hardware (refactoring for industrial safety & offshore) | 
+| **DigitalThread** *(coming soon)* | Industrial digital twin framework (live process synchronisation and simulation) |
 
 ---
 
