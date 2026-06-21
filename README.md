@@ -14,7 +14,7 @@ I am an EEE graduate building data infrastructure for **Industry 4.0** | OT/IT i
 |---|---|
 | [**StreamForge**](https://github.com/Akin-ctrl/StreamForge) | Protocol-agnostic industrial data gateway (OT to IT, edge to cloud, zero data loss) |
 | [**CVops**](https://github.com/Akin-ctrl/CVops) | Real-time computer vision pipeline for edge hardware (refactoring for industrial safety & offshore) | 
-| [**Stock-Pipeline**](https://github.com/Akin-ctrl/Stock_Pipeline) | Real-time computer vision pipeline for edge hardware (refactoring for industrial safety & offshore) | 
+| [**Stock-Pipeline**](https://github.com/Akin-ctrl/Stock_Pipeline) | End-to-end NGX market-data pipeline | 
 | **DigitalThread** *(coming soon)* | Industrial digital twin framework (live process synchronisation and simulation) |
 
 ---
